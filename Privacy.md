@@ -1,5 +1,5 @@
 # Silvy Privacy Policy
-**Last Updated: [Insert Date]**
+**Last Updated: June 1, 2024**
 
 This Privacy Policy governs the collection, use, and disclosure of information by the Discord bot ("Silvy") and its associated services provided by the developer.
 
